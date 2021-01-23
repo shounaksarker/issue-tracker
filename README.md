@@ -15,6 +15,7 @@ It's a dynamic Issue record web app which record the complained issue.
 
 ### Technology and Dependency:
 * HTML
+* Bootstrap
 * JavaScript
 
 ### Tools:
